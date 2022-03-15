@@ -1,0 +1,10 @@
+[
+  { "id": 1,
+    "always_present":    "dependable",
+    "sometimes_missing": "unreliable"
+  },
+  { "id": 2,
+    "always_present":    "trustworthy",
+    "sometimes_present": { "numbers": [1, 2, 3] }
+  }
+]
